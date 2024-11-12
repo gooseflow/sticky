@@ -1,4 +1,4 @@
-module github.com/scallywag64/sticky
+module github.com/pi3k/sticky
 
 go 1.23.2
 
